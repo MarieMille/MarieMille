@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarieMille
 - 👀 I’m interested in Bioinformatic and computer science
-- 🌱 I’m currently learning Bioinformatic
+- 🌱 I’m currently a Bioinformatic engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
